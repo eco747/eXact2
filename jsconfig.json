@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+		"target": "ES6"
+	},
+	"parserOptions": {
+		"sourceType": "script"
+	},
+	"typeAcquisition": {
+		"include" : [
+			"lib/framework.js",
+			"lib/components.js",
+			"lib/dialogs.js",
+			"lib/color.js",
+			"lib/ajax.js"
+		]
+	}
+}

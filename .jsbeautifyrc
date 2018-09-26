@@ -1,0 +1,12 @@
+{
+    "tab_size": 4,
+    "indentwith_tabs": true,
+    "wrap_line_length": 200,
+    "preserve_newlines": true,
+    "max_preserve_newlines": 2,
+    "space_after_anon_function": true,
+    "space_in_paren": true,
+    "space_in_empty_paren": true,
+    "brace_style": "end-expand,preserve-inline",
+    "keep_array_indentation":true
+}

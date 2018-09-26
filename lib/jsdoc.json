@@ -1,0 +1,12 @@
+{
+    "plugins": ["plugins/markdown"],
+    "source": {
+        "include": ["framework.js","components.js","dialog.js"]
+    },
+    "opts": {
+        "encoding": "utf8",
+        "destination": "docs/",
+        "recurse": true,
+        "verbose": true
+    }
+}
